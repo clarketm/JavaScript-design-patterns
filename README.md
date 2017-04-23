@@ -1,5 +1,5 @@
 # JavaScript-design-patterns
-Catalog of popular object-oriented design patterns using the latest ECMAScript features
+Catalog of popular object-oriented design patterns using the latest ECMAScript 6/7 features
 
 - [ ] Creational
   - [ ] Factory
